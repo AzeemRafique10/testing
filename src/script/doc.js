@@ -14,7 +14,8 @@ const users = [{
     age: 35,
     email: 'alice.smith@example.com',
     
-}
+},
+{ id: 4, name: "Alice Doe", age: 30, email: "Doe.smith@example.com" },
 ]
 
 export default users;
