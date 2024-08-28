@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <h1 className="top-header"> Javascript Destructuring </h1>
+      <h2 className="top-header"> Javascript Destructuring title </h2>
       <Data />
       <div className="header" >
         {users.map((user) => {
