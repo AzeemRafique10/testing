@@ -29,6 +29,12 @@ const users = [
     age: 30,
     email: "DoeJoe.smith@examsssapdsle.com",
   },
+  {
+    id: 6,
+    name: "Alice Doe",
+    age: 30,
+    email: "DoeJoe.smith@cool.com"
+  }
 ];
 
 export default users;
