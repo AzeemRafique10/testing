@@ -32,8 +32,8 @@ const users = [
   {
     id: 6,
     name: "Alice Doe",
-    age: 32,
-    email: "DoeJoe.smith@examsssapdsle.com",
+    age: 30,
+    email: "DoeJoe.smith@cool.com"
   }
 ];
 
