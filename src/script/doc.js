@@ -33,7 +33,7 @@ const users = [
     id: 6,
     name: "Alice Doe",
     age: 30,
-    email: "DoeJoe.smith@cool.com",
+    email: "DoeJoe.smith@cool.com"
   }
 ];
 
