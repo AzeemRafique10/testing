@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.header{
+    background-color: aquamarine;
+    flex-direction: column;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid blue;
+}
+
+.title{
+    border-bottom: 1px dashed gray;
+}
