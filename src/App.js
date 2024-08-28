@@ -4,6 +4,7 @@ import users from "./script/doc";
 function App() {
   return (
     <div>
+      <h1 className="top-header"> Javascript Destructuring </h1>
       <Data />
       <div className="header" >
         {users.map((user) => {
